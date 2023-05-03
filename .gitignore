@@ -1,0 +1,6 @@
+/.vs
+.vscode
+**/__pycache__
+/venv
+*.code-workspace
+stationstats.txt
